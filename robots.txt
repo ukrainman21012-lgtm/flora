@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flora-anotomy.linkpc.net/sitemap.xml
